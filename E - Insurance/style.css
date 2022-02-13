@@ -1,0 +1,57 @@
+.footbody{
+    background-color: #0A1558;
+    
+}
+.footbody_head{
+    padding-bottom: 45px;
+}
+h1,h2,h3,h4,h5,h6,p{
+    font-family: lato;
+}
+.pro{
+    text-align: center;
+}
+.mage img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.trusted{
+    background-color: #F6F8FB;
+    padding-top: 50px;
+    padding-bottom: 45px;
+    margin-top: 0;
+}
+.logos{
+    display: flex;
+    justify-content: space-between;
+}
+.logos img{
+    height: 70px;
+    width: 100px;
+}
+.general{
+    display: inline-flex;
+}
+.general i{
+    margin-top: 30px;
+    margin-right: 40px;
+}
+.general_section p{
+    font-weight: bold;
+}
+.contact{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.rojo img{
+    border-radius: 50%;
+}
+.footer{
+    padding-top: 45px;
+    padding-bottom: 45px;
+
+}
+.footer .card{
+    background-color:#0A1558; ;
+}
